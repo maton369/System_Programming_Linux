@@ -24,7 +24,7 @@ int main(int argc, char *argv[]){
     * argv (argument vector):
     *   コマンドライン引数を表す文字列配列。
     *   本コードでは中身は使わず、
-vv    *   「引数の個数」だけを検査している。
+    *   「引数の個数」だけを検査している。
     */
 
    if(argc != 3){
